@@ -6,6 +6,7 @@ Designed for security researchers and students to visualize the "Attack Surface"
 
 📸 Dashboard Preview
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/351e9b60-081f-42a1-bd58-fa0816e2745e" />
 
 
 ✨ Key Features
